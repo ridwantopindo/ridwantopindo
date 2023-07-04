@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ridwan Pandi
-- 👀 I’m interested in Software Development and
-- 🌱 I’m currently learning Software Project Management
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning DevOps and Software Project Management
 - 📫 How to reach me @ridwantopindo
 
 <!---
